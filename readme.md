@@ -5,6 +5,8 @@
 ## Description
 Display a live countdown clock.
 
+**[View Demo](http://scariati.kissr.com/github/countdown/)**
+
 ## Dependencies
 - [jQuery](http://jquery.com)
 
