@@ -11,12 +11,12 @@ Display a live countdown clock.
 - [jQuery](http://jquery.com)
 
 ## Use
-Include jQuery and the `jquery.countdown.js` plugin in your HTML:
+Include jQuery and the `jquery.countdown.min.js` plugin in your HTML:
 
 ```html
 <head>
 	<script src="lib/jquery.min.js"></script>
-	<script src="lib/jquery.countdown.js"></script>
+	<script src="lib/jquery.countdown.min.js"></script>
 </head>
 ```
 
