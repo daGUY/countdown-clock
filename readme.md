@@ -5,7 +5,7 @@ Display a live countdown clock.
 **[View Demo](https://daguy.github.com/countdown-clock)**
 
 ## Dependencies
-- [jQuery](http://jquery.com)
+- [jQuery](https://jquery.com)
 
 ## Use
 Include jQuery and the `jquery.countdown.min.js` plugin in your HTML:
