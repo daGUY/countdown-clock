@@ -1,11 +1,8 @@
 # Countdown Clock
-- By James Scariati
-- May 2015
 
-## Description
 Display a live countdown clock.
 
-**[View Demo](http://scariati.kissr.com/github/countdown/)**
+**[View Demo](https://daguy.github.com/countdown-clock)**
 
 ## Dependencies
 - [jQuery](http://jquery.com)
